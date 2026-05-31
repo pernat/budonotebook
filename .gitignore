@@ -1,0 +1,27 @@
+# Obsidian — include only essential template config, ignore everything else
+.obsidian/*
+!.obsidian/core-plugins.json
+!.obsidian/templates.json
+
+# Obsidian trash
+.trash/
+
+# Claude Code
+.claude/
+
+# Editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*~
