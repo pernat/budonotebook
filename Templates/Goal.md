@@ -1,64 +1,16 @@
 ---
 tags:
   - goal
-type: 
-  - rank
-target_rank: 
-target_date: 
-status: active
+status: in-progress
 ---
 
 # Goal: {{title}}
 
-**Target:** 
-**Target date:** 
-**Status:** Active / Achieved / Paused
+## Target Date
+- 
 
----
-
-## Why this matters to me
-
-*In a few sentences — what does reaching this goal mean for your practice?*
-
----
-
-## Requirements checklist
-
-### Technical requirements
-
-- [ ] 
-- [ ] 
+## Requirements
 - [ ] 
 
-### Physical / fitness requirements
-
-- [ ] 
-- [ ] 
-
-### Time / attendance requirements
-
-- [ ] Minimum training sessions: 
-
----
-
-## Milestones
-
-| Milestone | Target date | Done |
-|-----------|-------------|------|
-| | | |
-| | | |
-
----
-
-## Progress log
-
-| Date | Note |
-|------|------|
-| | |
-
----
-
-## Resources
-
-- [[00_Overview|Exam Program Overview]]
+## Progress Notes
 - 

@@ -8,9 +8,9 @@ rank_number: 1
 
 # Shodan — 1. dan
 
-> 🇭🇷 *Svi kandidati moraju vladati Aikido terminologijom, te znati povijest i izvore Aikido-a.*
+Svi kandidati moraju vladati Aikido terminologijom, te znati povijest i izvore Aikido-a.
 
-*All candidates must master Aikido terminology and know the history and origins of Aikido.*
+All candidates must master Aikido terminology and know the history and origins of Aikido.
 
 ---
 
@@ -18,48 +18,48 @@ rank_number: 1
 
 ### Kata Dori
 
-- [ ] **Kata Dori Shiho Nage** — Omote Waza
-- [ ] **Kata Dori Kote Gaeshi**
-- [ ] **Kata Dori Irimi Nage** — 1. oblik (1st form)
-- [ ] **Kata Dori Irimi Nage** — 2. oblik (2nd form)
+- [ ] Kata Dori Shiho Nage — Omote Waza
+- [ ] Kata Dori Kote Gaeshi
+- [ ] Kata Dori Irimi Nage — 1. oblik (1st form)
+- [ ] Kata Dori Irimi Nage — 2. oblik (2nd form)
 
 ### Koshi Nage (bacanja kukovima / hip throws)
 
-- [ ] **Ryote Dori Koshi Nage** — 1. oblik
-- [ ] **Ryote Dori Koshi Nage** — 2. oblik
-- [ ] **Ryote Dori Koshi Nage** — 3. oblik
-- [ ] **Katate Dori Koshi Nage** — 1. oblik
-- [ ] **Katate Dori Koshi Nage** — 2. oblik
-- [ ] **Shomen Uchi Koshi Nage**
-- [ ] **Yokomen Uchi Koshi Nage**
+- [ ] Ryote Dori Koshi Nage — 1. oblik
+- [ ] Ryote Dori Koshi Nage — 2. oblik
+- [ ] Ryote Dori Koshi Nage — 3. oblik
+- [ ] Katate Dori Koshi Nage — 1. oblik
+- [ ] Katate Dori Koshi Nage — 2. oblik
+- [ ] Shomen Uchi Koshi Nage
+- [ ] Yokomen Uchi Koshi Nage
 
 ### Kokyu Nage / Morote Dori
 
-- [ ] **Ryote Dori Kokyu Nage** — Soto Mawari
-- [ ] **Ryote Dori Kokyu Nage** — Uchi Mawari
-- [ ] **Morote Dori Kokyu Nage** — 1. oblik
-- [ ] **Morote Dori Kokyu Nage** — 2. oblik
+- [ ] Ryote Dori Kokyu Nage — Soto Mawari
+- [ ] Ryote Dori Kokyu Nage — Uchi Mawari
+- [ ] Morote Dori Kokyu Nage — 1. oblik
+- [ ] Morote Dori Kokyu Nage — 2. oblik
 
 ### Tsuki / Ushiro
 
-- [ ] **Tsuki Dai Rokkyo**
-- [ ] **Ushiro Ryote Dori Kote Gaeshi** — 1. oblik
-- [ ] **Ushiro Ryote Dori Kote Gaeshi** — 2. oblik
-- [ ] **Ushiro Ryote Dori Koshi Nage**
-- [ ] **Ushiro Ryote Dori Kokyu Nage** — 1. oblik
-- [ ] **Ushiro Ryote Dori Kokyu Nage** — 2. oblik
-- [ ] **Ushiro Ryo Kata Dori Kokyu Nage**
+- [ ] Tsuki Dai Rokkyo
+- [ ] Ushiro Ryote Dori Kote Gaeshi — 1. oblik
+- [ ] Ushiro Ryote Dori Kote Gaeshi — 2. oblik
+- [ ] Ushiro Ryote Dori Koshi Nage
+- [ ] Ushiro Ryote Dori Kokyu Nage — 1. oblik
+- [ ] Ushiro Ryote Dori Kokyu Nage — 2. oblik
+- [ ] Ushiro Ryo Kata Dori Kokyu Nage
 
 ### Hanmi Handachi Waza
 
-- [ ] **Hanmi Handachi Waza Shomen Uchi Irimi Nage**
-- [ ] **Hanmi Handachi Waza Shomen Uchi Kote Gaeshi**
-- [ ] **Hanmi Handachi Waza Shomen Uchi Kaiten Nage** — Soto Mawari
+- [ ] Hanmi Handachi Waza Shomen Uchi Irimi Nage
+- [ ] Hanmi Handachi Waza Shomen Uchi Kote Gaeshi
+- [ ] Hanmi Handachi Waza Shomen Uchi Kaiten Nage — Soto Mawari
 
 ### Suwari-waza
 
-- [ ] **Suwari Waza Ryote Dori Kokyu Ho** — Jodan
-- [ ] **Suwari Waza Ryote Dori Kokyu Ho** — Gedan
+- [ ] Suwari Waza Ryote Dori Kokyu Ho — Jodan
+- [ ] Suwari Waza Ryote Dori Kokyu Ho — Gedan
 
 ---
 
@@ -67,31 +67,31 @@ rank_number: 1
 
 ### Jo Dori (oduzimanje štapa / jo taking)
 
-- [ ] **Jo Dori: Choku Tsuki Kokyu Nage** — 1 oblik iz Gyaku Hanmi *(1 form from Gyaku Hanmi)*
-- [ ] **Jo Dori: Choku Tsuki Kokyu Nage** — 1. oblik iz Ai Hanmi *(1st form from Ai Hanmi)*
-- [ ] **Jo Dori: Choku Tsuki Kokyu Nage** — 2. oblik iz Ai Hanmi *(2nd form from Ai Hanmi)*
+- [ ] Jo Dori: Choku Tsuki Kokyu Nage — 1 oblik iz Gyaku Hanmi (1 form from Gyaku Hanmi)
+- [ ] Jo Dori: Choku Tsuki Kokyu Nage — 1. oblik iz Ai Hanmi (1st form from Ai Hanmi)
+- [ ] Jo Dori: Choku Tsuki Kokyu Nage — 2. oblik iz Ai Hanmi (2nd form from Ai Hanmi)
 
 ### Tachi Dori (oduzimanje mača / sword taking)
 
-- [ ] **Tachi Dori: Shomen Uchi Kote Gaeshi** — iz Gyaku Hanmi *(from Gyaku Hanmi)*
-- [ ] **Tachi Dori: Shomen Uchi Kokyu Nage** — iz Ai Hanmi *(from Ai Hanmi)*
+- [ ] Tachi Dori: Shomen Uchi Kote Gaeshi — iz Gyaku Hanmi (from Gyaku Hanmi)
+- [ ] Tachi Dori: Shomen Uchi Kokyu Nage — iz Ai Hanmi (from Ai Hanmi)
 
 ### Tanken Dori (oduzimanje noža / knife taking)
 
-- [ ] **Tanken Dori: Yokomen Uchi Dai Gokyo** — Ura Waza
-- [ ] **Tanken Dori: Tsuki (Chudan) Kote Gaeshi**
+- [ ] Tanken Dori: Yokomen Uchi Dai Gokyo — Ura Waza
+- [ ] Tanken Dori: Tsuki (Chudan) Kote Gaeshi
 
 ### Kata i Suburi / Kata and Suburi
 
-- [ ] **Jo Suburi Nijuppon** *(20 jo vježbi / 20 jo suburi)*
-- [ ] **Ken Suburi Nanahon** *(7 kenjutsu vježbi / 7 ken suburi)*
-- [ ] **Ken No Awase** *(izmjena s mačem / sword partner exercises)*
+- [ ] Jo Suburi Nijuppon (20 jo vježbi / 20 jo suburi)
+- [ ] Ken Suburi Nanahon (7 kenjutsu vježbi / 7 ken suburi)
+- [ ] Ken No Awase (izmjena s mačem / sword partner exercises)
 
 ---
 
 ## Teorijski zahtjevi / Theory requirements
 
-> 🇭🇷 Kandidati moraju poznavati:
+Kandidati moraju poznavati:
 
 Candidates must know:
 
@@ -104,9 +104,9 @@ Candidates must know:
 
 ## Priprema za ispit / Exam preparation
 
-**Ciljani datum ispita / Target exam date:**
-**Minimalni staž u klubu / Minimum club membership:**
-**Odobrenje instruktora / Instructor sign-off:**
+Ciljani datum ispita / Target exam date:
+Minimalni staž u klubu / Minimum club membership:
+Odobrenje instruktora / Instructor sign-off:
 
 ### Što mi ide dobro / What I'm confident in
 
@@ -118,4 +118,4 @@ Candidates must know:
 
 ---
 
-*← [[Ikkyu (1. kyu)]] | Sljedeći / Next: [[Nidan (2. dan)]] →*
+← [[Ikkyu (1. kyu)]] | Sljedeći / Next: [[Nidan (2. dan)]] →

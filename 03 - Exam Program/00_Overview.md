@@ -1,74 +1,40 @@
----
-tags:
-  - exam-program
----
+# Exam Program
 
-# Program Ispita / Exam Program
+Iwama Takemusu Aikido Syllabus
 
-**Aikido Klub Musubi Zagreb — Iwama Takemusu Aikido**
+This program follows the Iwama tradition (Saito Sensei's school). Techniques are demonstrated in kihon (basic) form unless ki-no-nagare (flow) is specified.
 
-> 🇭🇷 *Program ispita slijedi Iwama tradiciju (škola Saito Senseija) u skladu s pravilima Hombu Dojoa i Hrvatskog Aikido Saveza. Sve tehnike moraju biti demonstrirane u kihon obliku, osim gdje je naznačen ki-no-nagare.*
+## Kyu Ranks
 
-*The exam program follows the Iwama tradition (Saito Sensei's school) in accordance with Hombu Dojo and Croatian Aikido Federation rules. All techniques must be demonstrated in kihon form unless ki-no-nagare is specified.*
+- [[Gokyu (5. kyu)]]
+- [[Yonkyu (4. kyu)]]
+- [[Sankyu (3. kyu)]]
+- [[Nikyu (2. kyu)]]
+- [[Ikkyu (1. kyu)]]
 
----
+## Dan Ranks
 
-## Kyu stupnjevi / Kyu ranks
+- [[Shodan (1. dan)]]
+- [[Nidan (2. dan)]]
 
-| Stupanj / Rank | Stranica / Page |
-|---|---|
-| Gokyu — 5. kyu | [[Gokyu (5. kyu)]] |
-| Yonkyu — 4. kyu | [[Yonkyu (4. kyu)]] |
-| Sankyu — 3. kyu | [[Sankyu (3. kyu)]] |
-| Nikyu — 2. kyu | [[Nikyu (2. kyu)]] |
-| Ikkyu — 1. kyu | [[Ikkyu (1. kyu)]] |
+## Weapons (Buki Waza)
 
-## Dan stupnjevi / Dan ranks
+Weapons are integral to the Iwama tradition and appear at every level:
 
-| Stupanj / Rank | Stranica / Page |
-|---|---|
-| Shodan — 1. dan | [[Shodan (1. dan)]] |
-| Nidan — 2. dan | [[Nidan (2. dan)]] |
+-   Gokyu: Ken Suburi, Roku No Jo.
+-   Yonkyu: 31 No Jo Kata.
+-   Sankyu: Awase (Ken and Jo).
+-   Nikyu: 13 No Jo Kata.
+-   Ikkyu: Jo Suburi.
+-   Shodan/Nidan: Advanced Suburi, Awase, and Dori (disarming) techniques.
 
----
+## Key Terminology
 
-## Buki Waza pregled / Weapons overview
-
-Iwama tradicija uključuje oružje na svakom stupnju / Weapons appear at every level in the Iwama tradition:
-
-| Stupanj / Rank | Oružje / Weapons |
-|---|---|
-| Gokyu | Ken Suburi Nanahon, Roku No Jo |
-| Yonkyu | 31 No Jo Kata |
-| Sankyu | Go No Awase, Shichi No Awase |
-| Nikyu | 13 No Jo Kata |
-| Ikkyu | Jo Suburi Nijuppon |
-| Shodan | Jo Suburi Nijuppon, Ken Suburi Nanahon, Ken No Awase + Jo/Tachi/Tanken Dori |
-| Nidan | 31 No Jo Kata, 13 No Jo Kata + prošireni Jo/Tachi/Tanken Dori |
-
----
-
-## Ključna terminologija / Key terminology
-
-| Japanski / Japanese | Značenje / Meaning |
-|---|---|
-| Omote | Prednji ulaz / Front entry |
-| Ura | Stražnji, kružni ulaz / Rear, circular entry |
-| Kihon | Temeljni oblik (sporo, precizno) / Basic form (slow, precise) |
-| Ki-no-nagare | Tečni oblik / Flowing form |
-| Suwari-waza | Obje osobe sjede / Both persons seated |
-| Hanmi Handachi | Nage sjedi, uke stoji / Nage seated, uke standing |
-| Uke | Osoba koja napada i prima tehniku / Person who attacks and receives technique |
-| Nage (Tori) | Osoba koja izvodi tehniku / Person who applies the technique |
-| Omote Waza | Prednja tehnika / Front technique |
-| Ura Waza | Stražnja tehnika / Rear technique |
-
----
-
-## Napomena / Note
-
-> 🇭🇷 Ispit se ne uzima — dodjeljuje se. Napredak procjenjuje instruktor, ne kandidat. Redovitim treningom i pažnjom, pravo trenutak će doći.
-
-*An exam is not taken — it is awarded. Progress is assessed by the instructor, not the candidate. Through regular training and attentiveness, the right moment will come.*
-
-[[About Musubi]] | [[Welcome]]
+-   Omote: Front entry.
+-   Ura: Rear/circular entry.
+-   Kihon: Basic form.
+-   Ki-no-nagare: Flowing form.
+-   Suwari-waza: Both seated.
+-   Hanmi Handachi: Nage seated, uke standing.
+-   Uke: Person receiving the technique.
+-   Nage: Person performing the technique.

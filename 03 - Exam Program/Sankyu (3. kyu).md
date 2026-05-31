@@ -8,9 +8,9 @@ rank_number: 3
 
 # Sankyu — 3. kyu
 
-> 🇭🇷 *Najopsežniji kyu ispit. Uvode se Sankyo, Yonkyo i Kote Gaeshi. Suwari waza sekcija se proširuje. Oružje: Go No Awase i Shichi No Awase.*
+Najopsežniji kyu ispit. Uvode se Sankyo, Yonkyo i Kote Gaeshi. Suwari waza sekcija se proširuje. Oružje: Go No Awase i Shichi No Awase.
 
-*The most comprehensive kyu exam. Introduces Sankyo, Yonkyo, and Kote Gaeshi. Suwari waza section expands significantly. Weapons: Go No Awase and Shichi No Awase.*
+The most comprehensive kyu exam. Introduces Sankyo, Yonkyo, and Kote Gaeshi. Suwari waza section expands significantly. Weapons: Go No Awase and Shichi No Awase.
 
 ---
 
@@ -18,49 +18,49 @@ rank_number: 3
 
 ### Tachi-waza — Shomen Uchi
 
-- [ ] **Shomen Uchi Dai Sankyo** — Omote
-- [ ] **Shomen Uchi Dai Sankyo** — Ura
-- [ ] **Shomen Uchi Dai Yonkyo** — Omote
-- [ ] **Shomen Uchi Dai Yonkyo** — Ura
-- [ ] **Shomen Uchi Kote Gaeshi**
-- [ ] **Shomen Uchi Irimi Nage** *(ponavljanje s prethodnog ispita / review from previous exam)*
+- [ ] Shomen Uchi Dai Sankyo — Omote
+- [ ] Shomen Uchi Dai Sankyo — Ura
+- [ ] Shomen Uchi Dai Yonkyo — Omote
+- [ ] Shomen Uchi Dai Yonkyo — Ura
+- [ ] Shomen Uchi Kote Gaeshi
+- [ ] Shomen Uchi Irimi Nage (ponavljanje s prethodnog ispita / review from previous exam)
 
 ### Tachi-waza — Tsuki
 
-- [ ] **Tsuki (Chudan) Kote Gaeshi**
-- [ ] **Tsuki (Chudan) Irimi Nage**
+- [ ] Tsuki (Chudan) Kote Gaeshi
+- [ ] Tsuki (Chudan) Irimi Nage
 
 ### Tachi-waza — Kata Dori
 
-- [ ] **Kata Dori Dai Sankyo** — Omote
-- [ ] **Kata Dori Dai Sankyo** — Ura
-- [ ] **Kata Dori Dai Yonkyo** — Omote
-- [ ] **Kata Dori Dai Yonkyo** — Ura
+- [ ] Kata Dori Dai Sankyo — Omote
+- [ ] Kata Dori Dai Sankyo — Ura
+- [ ] Kata Dori Dai Yonkyo — Omote
+- [ ] Kata Dori Dai Yonkyo — Ura
 
 ### Tachi-waza — Ryote Dori / Katate Dori
 
-- [ ] **Ryote Dori Shiho Nage** — Omote
-- [ ] **Ryote Dori Shiho Nage** — Ura
-- [ ] **Katate Dori Kote Gaeshi**
-- [ ] **Ryote Dori Tenchi Nage**
+- [ ] Ryote Dori Shiho Nage — Omote
+- [ ] Ryote Dori Shiho Nage — Ura
+- [ ] Katate Dori Kote Gaeshi
+- [ ] Ryote Dori Tenchi Nage
 
 ### Suwari-waza (sjedeće tehnike / seated techniques)
 
-- [ ] **Suwari Waza Shomen Uchi Dai Ikkyo** — Omote
-- [ ] **Suwari Waza Shomen Uchi Dai Ikkyo** — Ura
-- [ ] **Suwari Waza Shomen Uchi Dai Nikyo** — Omote
-- [ ] **Suwari Waza Shomen Uchi Dai Nikyo** — Ura
-- [ ] **Suwari Waza Shomen Uchi Dai Sankyo** — Omote
-- [ ] **Suwari Waza Shomen Uchi Dai Sankyo** — Ura
-- [ ] **Suwari Waza Shomen Uchi Dai Yonkyo** — Omote
-- [ ] **Suwari Waza Shomen Uchi Dai Yonkyo** — Ura
+- [ ] Suwari Waza Shomen Uchi Dai Ikkyo — Omote
+- [ ] Suwari Waza Shomen Uchi Dai Ikkyo — Ura
+- [ ] Suwari Waza Shomen Uchi Dai Nikyo — Omote
+- [ ] Suwari Waza Shomen Uchi Dai Nikyo — Ura
+- [ ] Suwari Waza Shomen Uchi Dai Sankyo — Omote
+- [ ] Suwari Waza Shomen Uchi Dai Sankyo — Ura
+- [ ] Suwari Waza Shomen Uchi Dai Yonkyo — Omote
+- [ ] Suwari Waza Shomen Uchi Dai Yonkyo — Ura
 
 ---
 
 ## Buki Waza (tehnika oružja / weapons)
 
-- [ ] **Go No Awase** *(5 izmjena / 5 exchanges — jo)*
-- [ ] **Shichi No Awase** *(7 izmjena / 7 exchanges — jo)*
+- [ ] Go No Awase (5 izmjena / 5 exchanges — jo)
+- [ ] Shichi No Awase (7 izmjena / 7 exchanges — jo)
 
 ---
 
@@ -79,8 +79,8 @@ rank_number: 3
 
 ## Priprema za ispit / Exam preparation
 
-**Ciljani datum ispita / Target exam date:**
-**Odobrenje instruktora / Instructor sign-off:**
+Ciljani datum ispita / Target exam date:
+Odobrenje instruktora / Instructor sign-off:
 
 ### Što mi ide dobro / What I'm confident in
 
@@ -92,4 +92,4 @@ rank_number: 3
 
 ---
 
-*← [[Yonkyu (4. kyu)]] | Sljedeći / Next: [[Nikyu (2. kyu)]] →*
+← [[Yonkyu (4. kyu)]] | Sljedeći / Next: [[Nikyu (2. kyu)]] →

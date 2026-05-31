@@ -1,51 +1,18 @@
----
-tags:
-  - start-here
----
+# Welcome to Budo Notebook
 
-# Dobrodošli / Welcome
+This is a personal training management system for Aikido practitioners.
 
-## Aikido Klub Musubi Zagreb — Budo Notebook
+## Getting Started
 
-> 🇭🇷 *Ovo je tvoja osobna bilježnica aikido treninga. Prati napredak, pripremi se za ispite i gradi vlastitu knjižnicu tehnika.*
+1.  **[[About the Style]]** — Learn about the Iwama Takemusu tradition.
+2.  **[[How to Use This Vault]]** — A quick guide on logging sessions and adding techniques.
 
-*This is your personal aikido training notebook. Track your progress, prepare for exams, and build your own technique library.*
+## Structure
 
----
+-   `01 - Training Log/` — Your daily training diary.
+-   `02 - Techniques/` — Your personal encyclopedia of waza.
+-   `03 - Exam Program/` — Grading syllabus from 5th kyu to 2nd dan.
+-   `04 - Goals/` — Track your ranks and milestones.
+-   `05 - Weekly Review/` — Reflection on your progress.
 
-## Što možeš raditi ovdje / What you can do here
-
-- 📋 Bilježiti svaki trening / Log every training session
-- 🥋 Graditi knjižnicu tehnika s video linkovima / Build a technique library with video links
-- 📊 Pratiti koje tehnike trebaš za sljedeći ispit / Track techniques for your next exam
-- 🎯 Postavljati ciljeve i bilježiti napredak / Set goals and track milestones
-- 📅 Reflektirati na tjednoj razini / Reflect on your progress weekly
-
----
-
-## Gdje ići dalje / Where to go next
-
-1. **[[About Musubi]]** — saznaj više o klubu / learn about the club
-2. **[[How to Use This Vault]]** — kratki vodič za Obsidian / short guide to using this vault
-3. **[[00_Overview|Program ispita]]** — pronađi gdje si u svom aikido putu / find where you are in your journey
-4. **Stvori prvi dnevnik treninga** — idi u `01 - Training Log/`, stvori novu bilješku i koristi predložak *Training Session* / Create your first training log
-
----
-
-## Pregled vaulta / Vault at a glance
-
-```
-00 - Start Here/     ← Ovdje si / You are here
-01 - Training Log/   ← Jedna bilješka po treningu / One note per session
-02 - Techniques/     ← Knjižnica tehnika / Technique library
-03 - Exam Program/   ← Ispitni program Musubi kluba / Musubi exam program
-04 - Goals/          ← Tvoji ciljevi / Your goals
-05 - Weekly Review/  ← Tjedna refleksija / Weekly reflection
-Templates/           ← Predlošci / Templates
-```
-
----
-
-> *"Musubi — povezivanje, zbližavanje."*
->
-> Počni tamo gdje jesi. / Begin where you are.
+Start by creating your first training log in `01 - Training Log/` using the provided template.

@@ -2,31 +2,20 @@
 date: {{date}}
 tags:
   - training-log
-dojo: 
-instructor: 
-duration_minutes: 
-partners: 
 ---
 
 # Training Session — {{date}}
 
-## Techniques practiced
+## Details
+- **Dojo**: 
+- **Instructor**: 
+- **Partners**: 
 
+## Techniques
 - 
 
-## Key observations
-
-*What clicked today? What felt awkward? Any important corrections from sensei?*
-
+## Observations
 - 
 
-## Things to work on next time
-
+## To Work On
 - 
-
-## Video / reference links
-
-- 
-
-## Notes
-
