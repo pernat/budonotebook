@@ -1,67 +1,72 @@
 # Budo Notebook
 
-An Obsidian vault template for Aikido practitioners.
+An Obsidian vault for Aikido practitioners — built around the **Iwama Takemusu Aikido** tradition of **Aikido Klub Musubi Zagreb**.
 
 Track your training, prepare for exams, build a personal technique library, and set meaningful goals — all in one place.
+
+> **Bilingual:** Content is in Croatian and English / Sadržaj je na hrvatskom i engleskom jeziku.
 
 ![Budo Notebook workspace](workspace.png)
 
 ---
 
-## What's included
+## What's included / Što je uključeno
 
-| Folder | Purpose |
+| Folder | Purpose / Svrha |
 |--------|---------|
-| `00 - Start Here/` | Welcome and setup guide |
-| `01 - Training Log/` | Daily training session notes |
-| `02 - Techniques/` | Personal technique library with video links |
-| `03 - Exam Program/` | Aikikai kyu and dan requirements |
-| `04 - Goals/` | Rank goals and milestone tracking |
-| `05 - Weekly Review/` | Weekly reflection notes |
-| `Templates/` | Reusable note templates |
+| `00 - Start Here/` | Welcome, club info, setup guide / Dobrodošlica, info o klubu, vodič |
+| `01 - Training Log/` | Daily training session notes / Dnevnik treninga |
+| `02 - Techniques/` | Personal technique library with video links / Knjižnica tehnika |
+| `03 - Exam Program/` | Musubi exam program — Gokyu through Nidan / Ispitni program |
+| `04 - Goals/` | Rank goals and milestone tracking / Ciljevi i praćenje napretka |
+| `05 - Weekly Review/` | Weekly reflection notes / Tjedna refleksija |
+| `Templates/` | Reusable note templates / Predlošci bilješki |
 
 ---
 
-## Quick start
+## Quick start / Brzi početak
 
-1. Download this repository as a ZIP file
-2. Unzip it anywhere on your computer
-3. Open Obsidian → **Open folder as vault** → select the unzipped folder
+1. Download this repository as a ZIP file / Preuzmi repozitorij kao ZIP datoteku
+2. Unzip it anywhere on your computer / Raspakiraj ga bilo gdje na računalu
+3. Open Obsidian → **Open folder as vault** → select the unzipped folder / Otvori Obsidian → **Otvori mapu kao vault**
 4. Start with `00 - Start Here/Welcome.md`
+
+---
+
+## About this vault
+
+This vault was created for **Aikido Klub Musubi Zagreb**, practicing in the **Iwama Takemusu Aikido** tradition (Saito Sensei's school). The exam program reflects the actual Musubi club curriculum from Gokyu (5th kyu) through Nidan (2nd dan), including the weapons work (buki waza) integral to the Iwama style.
+
+The templates and structure are general enough to adapt to any Aikido club. The exam program pages are Musubi-specific.
 
 ---
 
 ## Recommended community plugins
 
-These are optional but enhance the experience. Install them via **Settings → Community plugins → Browse**:
+Install via **Settings → Community plugins → Browse**:
 
-- **Dataview** — adds dynamic tables (e.g., list all training sessions for a given technique)
-- **Templater** — more powerful templates with auto date/time insertion
-- **Periodic Notes** — weekly review workflow integration
+- **Dataview** — dynamic tables (e.g., list all sessions where you practiced a technique)
+- **Templater** — auto-insert today's date in templates
+- **Periodic Notes** — weekly review workflow
 
 ---
 
-## How to use templates
+## How to use templates / Kako koristiti predloške
 
-1. Create a new note
+1. Create a new note / Stvori novu bilješku
 2. Open the command palette (`Cmd/Ctrl + P`)
-3. Type **"Insert template"** and select one from the list
-4. Fill in the fields
+3. Type **"Insert template"** / Ukucaj **"Umetni predložak"**
+4. Select from the list / Odaberi s popisa
 
 ---
 
-## Style
+## Contributing / Doprinosi
 
-This vault is style-agnostic within Aikikai. Technique names follow Aikikai Hombu Dojo conventions. The exam program is a common reference structure — adjust it to match your federation or dojo's specific requirements.
-
----
-
-## Contributing
-
-Found a mistake in the exam program? Have a suggestion? Open an issue or pull request on GitHub.
+Found a mistake in the exam program? Have a suggestion?
+Open an issue or pull request on GitHub.
 
 ---
 
-## License
+## License / Licenca
 
-[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely.
+[Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely. / Javna domena. Slobodno koristi.

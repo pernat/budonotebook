@@ -3,40 +3,49 @@ tags:
   - start-here
 ---
 
-# Welcome to Budo Notebook
+# Dobrodošli / Welcome
 
-This vault is your personal training companion for Aikido.
+## Aikido Klub Musubi Zagreb — Budo Notebook
 
-Here you can:
-- Log every training session
-- Build a library of techniques with your own notes and video links
-- Track which techniques you need for your next exam
-- Set rank goals and milestones
-- Reflect on your progress weekly
+> 🇭🇷 *Ovo je tvoja osobna bilježnica aikido treninga. Prati napredak, pripremi se za ispite i gradi vlastitu knjižnicu tehnika.*
+
+*This is your personal aikido training notebook. Track your progress, prepare for exams, and build your own technique library.*
 
 ---
 
-## Where to go next
+## Što možeš raditi ovdje / What you can do here
 
-1. **Read [[How to Use This Vault]]** — a short guide to the key features
-2. **Open [[03 - Exam Program/Overview|Exam Program Overview]]** — find where you are in your Aikikai journey
-3. **Create your first training log** — go to `01 - Training Log/`, create a new note, and use the *Training Session* template
+- 📋 Bilježiti svaki trening / Log every training session
+- 🥋 Graditi knjižnicu tehnika s video linkovima / Build a technique library with video links
+- 📊 Pratiti koje tehnike trebaš za sljedeći ispit / Track techniques for your next exam
+- 🎯 Postavljati ciljeve i bilježiti napredak / Set goals and track milestones
+- 📅 Reflektirati na tjednoj razini / Reflect on your progress weekly
 
 ---
 
-## Your vault at a glance
+## Gdje ići dalje / Where to go next
+
+1. **[[About Musubi]]** — saznaj više o klubu / learn about the club
+2. **[[How to Use This Vault]]** — kratki vodič za Obsidian / short guide to using this vault
+3. **[[00_Overview|Program ispita]]** — pronađi gdje si u svom aikido putu / find where you are in your journey
+4. **Stvori prvi dnevnik treninga** — idi u `01 - Training Log/`, stvori novu bilješku i koristi predložak *Training Session* / Create your first training log
+
+---
+
+## Pregled vaulta / Vault at a glance
 
 ```
-00 - Start Here/     ← You are here
-01 - Training Log/   ← One note per session
-02 - Techniques/     ← Your personal technique library
-03 - Exam Program/   ← Aikikai kyu & dan requirements
-04 - Goals/          ← What you're working toward
-05 - Weekly Review/  ← Friday reflections
-Templates/           ← Reusable note structures
+00 - Start Here/     ← Ovdje si / You are here
+01 - Training Log/   ← Jedna bilješka po treningu / One note per session
+02 - Techniques/     ← Knjižnica tehnika / Technique library
+03 - Exam Program/   ← Ispitni program Musubi kluba / Musubi exam program
+04 - Goals/          ← Tvoji ciljevi / Your goals
+05 - Weekly Review/  ← Tjedna refleksija / Weekly reflection
+Templates/           ← Predlošci / Templates
 ```
 
 ---
 
-> *"The way of the warrior is not a gentle path."*
-> Begin where you are.
+> *"Musubi — povezivanje, zbližavanje."*
+>
+> Počni tamo gdje jesi. / Begin where you are.

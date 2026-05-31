@@ -60,5 +60,5 @@ status: active
 
 ## Resources
 
-- [[03 - Exam Program/Overview|Exam Program Overview]]
+- [[00_Overview|Exam Program Overview]]
 - 
