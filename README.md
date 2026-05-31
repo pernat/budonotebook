@@ -6,6 +6,8 @@ Track your training, prepare for exams, build a personal technique library, and 
 
 **Bilingual:** Content is in Croatian and English / Sadržaj je na hrvatskom i engleskom jeziku.
 
+![Budo Notebook workspace](workspace.png)
+
 ---
 
 ## Folders
